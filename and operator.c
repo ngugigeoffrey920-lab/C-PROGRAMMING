@@ -13,7 +13,6 @@ int main()
     scanf("%f",&height);
 
     bool result= (age>=18)&&(height>=6.5);
-
     
     if (result==true)
     {
